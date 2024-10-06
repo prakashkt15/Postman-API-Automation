@@ -1,0 +1,10 @@
+[
+    {
+        "boardName": "Postman Board 1",
+        "cardName": ["Homepage", "Cart", "Checkout"]
+    },
+    {
+        "boardName": "Postman Board 2",
+        "cardName": ["Homepage", "Cart", "Checkout"]
+    }
+]
